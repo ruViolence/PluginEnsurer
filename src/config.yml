@@ -1,0 +1,3 @@
+plugins: []
+stop_command: 'stop'
+check_delay: 60

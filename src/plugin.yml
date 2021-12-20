@@ -1,0 +1,3 @@
+name: PluginEnsurer
+main: ru.violence.pluginensurer.PluginEnsurer
+version: 1
